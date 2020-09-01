@@ -1,0 +1,25 @@
+.footer {
+    height: 40vh;
+    background: #6fb360;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.boxContainer {
+    border: 1px solid;
+    display: flex;
+}
+
+.box {
+    border: 1px solid;
+    width: 50px;
+    height: 50px;
+}

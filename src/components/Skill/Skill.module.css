@@ -1,0 +1,14 @@
+.skill {
+    background: #8cd2d2;
+    width: 250px;
+    /*min-height: 300px;*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    background: blue;
+}

@@ -1,0 +1,25 @@
+.myWorkBlock {
+    border: 1px solid;
+    width: 400px;
+}
+
+.content {
+    background: gray;
+    min-height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.watch {
+    background: palegreen;
+}
+
+.description {
+    background: darkgray;
+}
+
+.description > div {
+    background: lightpink;
+    margin-bottom: 5px;
+}

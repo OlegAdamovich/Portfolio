@@ -1,0 +1,13 @@
+.header {
+    height: 80px;
+    background: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
+}
